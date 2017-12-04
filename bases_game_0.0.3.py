@@ -3,7 +3,7 @@ import random, time
 '''
 _________________________________________
 0                                       0
-|Bases Game by Luke Roberts 10AB.       | 
+|Bases Game by Luke Roberts.            | 
 |                                       |
 |01110100 01101000 01101001 01110011    |
 |00100000 01110100 01101111 01101111    |
